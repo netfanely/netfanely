@@ -3,6 +3,8 @@
 🌱 **Sobre mí:**  
 Ingeniera apasionada por la tecnología y la enseñanza. Actualmente, estoy aprendiendo **PYTHON** y tengo experiencia en **Java, JavaScript, Angular y automatización de APIs**.
 Busco colaborar en proyectos relacionados al desarrollo web y mobile.
+Actualmente, trabajo en NTTDATA, una empresa transnacional de desarrollo de software, donde participo en proyectos de alto impacto. También estoy ampliando mis conocimientos en Angular, MongoDB y desarrollo web.
+📌 LinkedIn: [https://www.linkedin.com/in/fanny-pastor-872a6a351/]
 
 🚀 **Tech Stack:**  
 - 🖥️ Lenguajes: `Python`, `Java`, `JavaScript`, `COBOL`, `SWIFT`
