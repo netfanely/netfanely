@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Net-Fanely  
+# 👋 ¡Hola! Soy Fanny Pastor (Net-Fanely)
 
 🌱 **Sobre mí:**  
 Ingeniera apasionada por la tecnología y la enseñanza. Actualmente, estoy aprendiendo **PYTHON** y tengo experiencia en **Java, JavaScript, Angular y automatización de APIs**.
